@@ -1,133 +1,134 @@
 
-"categories" : [
+{"categories": [
   {
-    id: "1",
-    name: "General Information",
-    skills: [
+    "id": "1",
+    "name": "General Information",
+    "skills": [
       {
-        id: "1",
-        name: "Formal Education",
+        "id": "1",
+        "name": "Formal Education"
       },
       {
-        id: "2",
-        name: "Degree",
+        "id": "2",
+        "name": "Degree"
       },
       {
-        id: "3",
-        name: "English Proficiency",
-      },
-    ],
+        "id": "3",
+        "name": "English Proficiency"
+      }
+    ]
   },
   {
-    id: "2",
-    name: "Communication",
-    skills: [
+    "id": "2",
+    "name": "Communication",
+    "skills": [
       {
-        id: "4",
-        name: "Communication inside the team",
+        "id": "4",
+        "name": "Communication inside the team"
       },
       {
-        id: "5",
-        name: "Communication with the client",
-      },
-    ],
+        "id": "5",
+        "name": "Communication with the client"
+      }
+    ]
   },
   {
-    id: "3",
-    name: "English",
-    skills: [
+    "id": "3",
+    "name": "English",
+    "skills": [
       {
-        id: "6",
-        name: "Reading",
+        "id": "6",
+        "name": "Reading"
       },
       {
-        id: "7",
-        name: "Writing",
+        "id": "7",
+        "name": "Writing"
       },
       {
-        id: "8",
-        name: "Speaking",
+        "id": "8",
+        "name": "Speaking"
       },
       {
-        id: "9",
-        name: "Listening",
-      },
-    ],
+        "id": "9",
+        "name": "Listening"
+      }
+    ]
   },
   {
-    id: "4",
-    name: "Technical",
-    skills: [
+    "id": "4",
+    "name": "Technical",
+    "skills": [
       {
-        id: "10",
-        name: "Coding",
+        "id": "10",
+        "name": "Coding"
       },
       {
-        id: "11",
-        name: "Programming",
+        "id": "11",
+        "name": "Programming"
       },
       {
-        id: "12",
-        name: "Database",
+        "id": "12",
+        "name": "Database"
       },
       {
-        id: "13",
-        name: "Web Development",
+        "id": "13",
+        "name": "Web Development"
       },
       {
-        id: "14",
-        name: "Mobile Development",
+        "id": "14",
+        "name": "Mobile Development"
       },
       {
-        id: "15",
-        name: "Testing",
+        "id": "15",
+        "name": "Testing"
       },
       {
-        id: "16",
-        name: "Project Management",
+        "id": "16",
+        "name": "Project Management"
       },
       {
-        id: "17",
-        name: "System Administration",
+        "id": "17",
+        "name": "System Administration"
       },
       {
-        id: "18",
-        name: "Other",
-      },
-    ],
+        "id": "18",
+        "name": "Other"
+      }
+    ]
   },
   {
-    id: "5",
-    name: "Soft Skills",
-    skills: [
+    "id": "5",
+    "name": "Soft Skills",
+    "skills": [
       {
-        id: "19",
-        name: "Teamwork",
+        "id": "19",
+        "name": "Teamwork"
       },
       {
-        id: "20",
-        name: "Leadership",
+        "id": "20",
+        "name": "Leadership"
       },
       {
-        id: "21",
-        name: "Problem Solving",
+        "id": "21",
+        "name": "Problem Solving"
       },
       {
-        id: "22",
-        name: "Adaptability",
+        "id": "22",
+        "name": "Adaptability"
       },
       {
-        id: "23",
-        name: "Initiative",
+        "id": "23",
+        "name": "Initiative"
       },
       {
-        id: "24",
-        name: "Self-Motivation",
+        "id": "24",
+        "name": "Self-Motivation"
       },
       {
-        id: "25",
-        name: "Teamwork",
-      },
-    ],
-  },
+        "id": "25",
+        "name": "Teamwork"
+      }
+    ]
+  }
 ]
+}
